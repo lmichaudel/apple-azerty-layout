@@ -1,5 +1,7 @@
 # Layout Apple français AZERTY
-![Layout AZERTY](appleazerty.jpg)
+Made with Microsoft Keyboard Layout Creator v1.4
+
+![Layout AZERTY](applefr.png)
 
 # Install
 Download [latest release](https://github.com/lmichaudel/apple-azerty-layout/releases/latest), extract the archive and run `setup.exe`.
